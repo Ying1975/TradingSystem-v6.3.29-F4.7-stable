@@ -1,4 +1,4 @@
-# TradingSystem v6.3.29-F4.7 — Stable Core Scripts
+# TradingSystem v6.3.29-F4.7 — Stable Core Scripts 
 
 This repository contains the **stable core logic** for TradingSystem v6.3.29.
 
