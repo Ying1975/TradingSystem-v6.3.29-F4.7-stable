@@ -1,3 +1,17 @@
+## 🔒 Stable Version Notice
+
+This repository represents **TradingSystem v6.3.29-F4.7 (STABLE)**.
+
+⚠️ **Rules**
+- This version is **feature-frozen**
+- Only **critical bug fixes** are allowed
+- ❌ No indicator changes
+- ❌ No scoring / light logic changes
+- ❌ No behavior changes affecting outputs
+
+All new ideas, experiments, or refactors **MUST go to a new version**  
+(e.g. v6.3.29-F4.8 or later).
+
 # TradingSystem v6.3.29-F4.7 — Stable Core Scripts 
 
 This repository contains the **stable core logic** for TradingSystem v6.3.29.
